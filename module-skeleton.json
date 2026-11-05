@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-forums-integration-dart-mobile",
+  "capabilityKey": "planned:cms:forums-integration",
+  "presentation": "dart-mobile",
+  "package": "module_cms_forums_integration_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/cms/nextjs/forums-integration.md",
+  "presentationPlan": "projects/cms/features/forums-integration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
